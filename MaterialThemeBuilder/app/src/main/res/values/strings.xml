@@ -27,9 +27,9 @@
 
     <!--Instructions-->
     <string name="instructions_how_to">Build your own custom Material Theme by remixing and styling these themeable components.\n\nModify the variables in your project\'s color.xml, type.xml and shape.xml files to see your custom styles cascade through Material Components for Android.</string>
-    <string name="instructions_how_to_title">How to use theme builder</string>
-    <string name="instructions_options_title">Theme builder options</string>
-    <string name="instructions_enable_dark_title">Enable dark theme</string>
+    <string name="instructions_how_to_title">Cómo usar theme builder</string>
+    <string name="instructions_options_title">Theme builder opciones</string>
+    <string name="instructions_enable_dark_title">establecer tema negro</string>
 
     <!--Component-->
     <string name="text_headline_6">Headline 6</string>
