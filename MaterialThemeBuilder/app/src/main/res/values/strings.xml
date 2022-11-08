@@ -90,7 +90,7 @@
 
 
     <!--Theme Summary-->
-    <string name="label_color_scheme_title">Color scheme</string>
+    <string name="label_color_scheme_title">esquema colores</string>
 
     <string name="label_shape_system_title">Shape system</string>
     <string name="shape_appearance_small_label">S</string>
