@@ -22,7 +22,7 @@
 
     <!--Main-->
     <string name="tab_title_instructions">Instrucciones</string>
-    <string name="tab_title_components">Components</string>
+    <string name="tab_title_components">Componentes</string>
     <string name="tab_title_theme_summary">Theme summary</string>
 
     <!--Instructions-->
