@@ -37,10 +37,10 @@
     <string name="text_button">Button</string>
     <string name="text_overline">Overline</string>
 
-    <string name="button_label_title">Button</string>
-    <string name="button_left_button_label">Left</string>
-    <string name="button_center_button_label">Center</string>
-    <string name="button_right_button_label">Right</string>
+    <string name="button_label_title">Boton</string>
+    <string name="button_left_button_label">izquierda</string>
+    <string name="button_center_button_label">centro</string>
+    <string name="button_right_button_label">derecha</string>
 
     <string name="fab_label_title">FAB</string>
 
