@@ -97,7 +97,7 @@
     <string name="shape_appearance_medium_label">M</string>
     <string name="shape_appearance_large_label">L</string>
 
-    <string name="label_typography_scale_title">Typography scale</string>
+    <string name="label_typography_scale_title">Escala de tipografía</string>
     <string name="text_appearance_h1_label">H1</string>
     <string name="text_appearance_h2_label">H2</string>
     <string name="text_appearance_h3_label">H3</string>
